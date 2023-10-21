@@ -1,3 +1,3 @@
-*Code Link - https://github.com/tuRjo-RahmaN/G3_Architecture-Landing_page.git
+*Code Link - https://github.com/tuRjo-RahmaN/G3_Architecture-Landing_page
 
 *Live Site - https://phenomenal-horse-1c965f.netlify.app
